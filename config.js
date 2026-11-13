@@ -1,2 +1,1 @@
-// 단가표 도구 설정 — 페이지의 ⚙ 설정에서 만든 코드를 아래에 붙여넣으세요.
-window.PRICE_CFG = {};
+window.PRICE_CFG = {"enc":{"salt":"nR5SskFz1fhXRAO9i7d0nw==","iv":"2vEqLz6p2AXfNjTD","ct":"IeGMFPVAM82iT26cs6e7xjPvPQnDXl+wXbZN7NfsGBXjTryAWdIURhzrQrIht/xWkZ0zyY7gkzeLi9NezzcSuH3RQiquudsAvTDRR1oM/eN56Txl/SVQ2QnGoRmTk46NDMGYJcufPgsW1+vI5EGMYuaoPD/6uNTXCWxakGlZBK4MjG0t2I14ops="}};
